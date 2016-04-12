@@ -16,3 +16,5 @@ GET     /public/                                staticDir:public
 
 \# Hello World page
 GET   /sayhello/?                              Application.sayhello
+\# userentiy
+POST  /Userone/?                              Application.Userone
